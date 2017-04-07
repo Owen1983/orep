@@ -1,3 +1,5 @@
+
+
 class Math{
 	def Add(A:Int, B:Int):Int={
 	
